@@ -1,5 +1,5 @@
 # Shake It Off
-This is an application which pulls detractors from [Delighted](https://delighted.com/),
+This is an application that pulls detractors from [Delighted](https://delighted.com/),
 our [NPS](http://en.wikipedia.org/wiki/Net_Promoter) tracking system and posts
 them into a room on Slack.
 
