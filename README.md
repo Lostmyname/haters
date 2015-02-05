@@ -17,4 +17,4 @@ Shakespearian, that.
 ## Usage
 1. Copy `.env.sample` to `.env` and fill in the blanks
 2. Run `bundle install`
-3. Run `ruby haters.rb` and the most recent detractor comments will show up in Slack
+3. Run `ruby shake_it_off.rb` and the most recent detractor comments will show up in Slack
