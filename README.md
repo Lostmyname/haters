@@ -1,6 +1,6 @@
 # Shake It Off
 This is an application that pulls detractors from [Delighted](https://delighted.com/),
-our [NPS](http://en.wikipedia.org/wiki/Net_Promoter) tracking system and posts
+our [NPS](http://en.wikipedia.org/wiki/Net_Promoter) tracking system, and posts
 them into a room on Slack.
 
 This allows us to easily get an overview of what's causing people to be unhappy
