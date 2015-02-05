@@ -1,5 +1,4 @@
 require 'bundler'
-require 'pp'
 Bundler.require
 
 # Load config from `.env`
@@ -37,4 +36,5 @@ Delighted::SurveyResponse.all(
   )
 end
 
+# Update last detractor timestamp in Redis if we have a more recent one
 redis.set('last_detractor_timestamp', new_detractor_timestamp + 1) if new_detractor_timestamp
